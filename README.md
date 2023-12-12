@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-arouish
 - 👀 I’m interested in mobile app development 
-- 🌱 I’m currently learning Java ...
+- 🌱 I’m currently learning microservices with SpringBoot ...
 
 
 <!---
